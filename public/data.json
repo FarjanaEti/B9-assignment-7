@@ -1,0 +1,81 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Grilled Chicken",
+    "recipe_image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
+    "short_description": "A delicious and spicy grilled chicken marinated with special herbs and spices.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "50 g chili powder",
+      "200 g basil leaf",
+      "2 garlic cloves",
+      "50 ml olive oil"
+    ],
+    "preparing_time": 30,
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Creamy Mushroom Pasta",
+    "recipe_image": "https://i.ibb.co.com/wSXBXxq/download-1.jpg",
+    "short_description": "A creamy and rich mushroom pasta perfect for a quick dinner.",
+    "ingredients": [
+      "400 g pasta",
+      "200 g mushroom",
+      "250 ml heavy cream",
+      "2 garlic cloves",
+      "50 g parmesan cheese",
+      "2 tbsp butter"
+    ],
+    "preparing_time": 25,
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Basil Pesto Pizza",
+    "recipe_image": "https://i.ibb.co.com/JQGYhnQ/download-3.jpg",
+    "short_description": "A crispy pizza topped with fresh basil pesto and mozzarella cheese.",
+    "ingredients": [
+      "1 pizza dough",
+      "100 g basil leaves",
+      "50 g pine nuts",
+      "100 g mozzarella cheese",
+      "2 tbsp olive oil",
+      "2 garlic cloves"
+    ],
+    "preparing_time": 20,
+    "calories": "370 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Stir-fry",
+    "recipe_image": "https://i.ibb.co.com/b2q0R5D/download-2.jpg",
+    "short_description": "A healthy and quick stir-fry loaded with fresh vegetables.",
+    "ingredients": [
+      "200 g broccoli",
+      "150 g carrots",
+      "100 g bell peppers",
+      "120 ml soy sauce",
+      "2 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "preparing_time": 15,
+    "calories": "180 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Avocado Toast",
+    "recipe_image": "https://i.ibb.co.com/6bJ0m1Y/download.jpg",
+    "short_description": "A simple yet delicious toast topped with mashed avocado and seasoning.",
+    "ingredients": [
+      "1 ripe avocado",
+      "2 slices of bread",
+      "1 tbsp olive oil",
+      "1 tsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 10,
+    "calories": "250 calories"
+  }
+]
