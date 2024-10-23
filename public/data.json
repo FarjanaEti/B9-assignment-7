@@ -13,7 +13,7 @@
       "50 ml olive oil"
     ],
     "preparing_time": 30,
-    "calories": "320 calories"
+    "calories": 320
   },
   {
     "recipe_id": 2,
@@ -29,7 +29,7 @@
       "2 tbsp butter"
     ],
     "preparing_time": 25,
-    "calories": "450 calories"
+    "calories": 450 
   },
   {
     "recipe_id": 3,
@@ -45,7 +45,7 @@
       "2 garlic cloves"
     ],
     "preparing_time": 20,
-    "calories": "370 calories"
+    "calories": 370
   },
   {
     "recipe_id": 4,
@@ -61,7 +61,7 @@
       "1 garlic clove"
     ],
     "preparing_time": 15,
-    "calories": "180 calories"
+    "calories": 180 
   },
   {
     "recipe_id": 5,
@@ -76,6 +76,6 @@
       "Salt and pepper to taste"
     ],
     "preparing_time": 10,
-    "calories": "250 calories"
+    "calories": 250 
   }
 ]
