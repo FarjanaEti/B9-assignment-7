@@ -1,8 +1,6 @@
-# React + Vite
+      ** Recipie Calories**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+The **Recipe Calories** website is a dynamic platform that helps users manage and track recipes along with their calorie counts. Users can view, add, and track the progress of recipes they want to cook and the ones currently being prepared.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2025-02-05 124133](https://github.com/user-attachments/assets/75927f84-2f40-45f2-9500-554bcac84fae)
